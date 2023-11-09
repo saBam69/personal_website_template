@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 # Site Settings
 locale                   : "en-US" 
 title                    : "saba"
-title_separator          : "-"
+title_separator          : "yo"
 name                     : "saba" 
 description              : "salam"
 url                      : # the base host
