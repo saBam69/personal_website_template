@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "saba"
 title_separator          : "-"
 name                     : "saba" 
-description              : "Welcome to my web site."
+description              : "salam"
 url                      : # the base host
 
 
@@ -115,11 +115,11 @@ author:
   bio              : "good"
   location         : "کرج"
   email            : 
-  twitter: sauleh_e
-  linkedin: sauleh
+  twitter: saba
+  linkedin: saba
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: 
+  instagram: saba
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
