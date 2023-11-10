@@ -9,6 +9,7 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [gym]
+* [plye football] 
 
 
