@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "saba"
-  avatar           : 
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "69"
   location         : " کرج "
   email            : "saba_mahdian40@comp.iust.ac.ir"
