@@ -9,9 +9,9 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* a1
-* b2
-* c3
+* negar
+* tanya
+
 
 
 
