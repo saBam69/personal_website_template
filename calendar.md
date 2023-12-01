@@ -1,9 +1,9 @@
 ---
 layout: single
 author_profile: true
-permalink: /calender/
+permalink: /calendar/
 title: Courses
-tags: [calender]
+tags: [calendar]
 modified: 9-14-2023
 comments: false
 ---
